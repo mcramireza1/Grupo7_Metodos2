@@ -1,0 +1,10 @@
+=== Probabilidad de alcanzar Pu >= 80 en T=30 días ===
+Trayectorias N = 1000, éxitos k = 172
+
+[Frecuentista]
+p = 17.2000%
+SE   = +1.1934 puntos porcentuales
+IC 95% (Wilson) = [14.9876%, 19.6634%]
+
+[Bayesiano]Media posterior = 17.2655%
+IC 95% (Beta, cuantiles) = [14.9894%, 19.6652%]
