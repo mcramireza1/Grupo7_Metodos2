@@ -1,0 +1,10 @@
+Simulación KdV (dif. finitas, condiciones periódicas)
+PDE: u_t + u u_x + δ^2 u_xxx = 0, δ = 0.2
+Dominio: x in [0,40.0), N = 256, dx = 0.15625
+Tiempo: RK4 explícito, dt = 1.907e-03, pasos = 31458
+Archivos: 3_solitones_kdv_fd.png, 3_solitones_kdv_fd.pdf, 3_solitones_kdv_fd_invariantes.png,
+          3_solitones_kdv_fd.mp4
+Invariantes (inicio → fin):
+  masa     : -1.214306e-16 →  4.930951e-15
+  momento  :  1.000000e+00  →  1.016891e+00
+  energía  : -9.867623e-04   →  2.078024e-03
